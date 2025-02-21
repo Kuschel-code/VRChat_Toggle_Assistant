@@ -45,6 +45,7 @@ The **VRChat Toggle Assistant** is a Unity Editor tool designed to simplify the 
 3. Insert the following URL into the **Repository Listing URL** field:  
    ```plaintext
    https://kuschel-code.github.io/VRChat_Toggle_Assistant/index.json
+   https://kuschel-code.github.io/VRChat_Toggle_Assistant/
 ---
 🎨 Credits
 Developed by Kuscheltier with ❤️ for the VRChat community.
