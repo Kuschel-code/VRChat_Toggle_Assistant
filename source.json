@@ -1,27 +1,25 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
-    "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+    "name": "VRChat_Toggle_Assistant",
+    "id": "com.kuschel-code.vrchat_toggle_assistant",
+    "url": "https://kuschel-code.github.io/VRChat_Toggle_Assistant/index.json",
+    "author": {
+        "name": "Kuscheltier",
+        "url": "https://github.com/Kuschel-code"
     },
-    "description":"Example listing of VRChat packages",
-    "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
-        "text":"View on GitHub"
+    "description": "VCC-compatible toggle management tool for VRChat avatars by Kuscheltier.",
+    "infoLink": {
+        "url": "https://github.com/Kuschel-code/VRChat_Toggle_Assistant",
+        "text": "View on GitHub"
     },
-    "bannerUrl":"banner.png",
-    "githubRepos":[
-        "vrchat-community/clientsim"
+    "bannerUrl": "banner.png",
+    "githubRepos": [
+        "Kuschel-code/VRChat_Toggle_Assistant"
     ],
-    "packages":[
+    "packages": [
         {
-            "name":"com.vrchat.udonsharp",
-            "releases":[
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip"
+            "name": "com.kuschel-code.vrchat_toggle_assistant",
+            "releases": [
+                "https://github.com/Kuschel-code/VRChat_Toggle_Assistant/releases/download/1.0.0/com.kuschel-code.vrchat_toggle_assistant.zip"
             ]
         }
     ]
